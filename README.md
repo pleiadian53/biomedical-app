@@ -1,4 +1,4 @@
-ml-test-repo
-============
+biomedical-app
+==============
 
-Test environment for machine learning apps 
+Test environment for various machine learning apps in biomedicine
