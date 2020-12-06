@@ -1,4 +1,4 @@
 biomedical-app
 ==============
 
-Test environment for various machine learning apps in biomedicine
+Collection of various machine learning applications in biomedicine. 
