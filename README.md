@@ -1,4 +1,4 @@
 biomedical-app
 ==============
 
-Collection of various machine learning applications in biomedicine. 
+A collection of various machine learning applications in biomedicine. 
